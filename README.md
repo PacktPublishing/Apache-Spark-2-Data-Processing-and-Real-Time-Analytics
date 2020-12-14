@@ -1,3 +1,8 @@
+## $5 Tech Unlocked 2021!
+[Buy and download this Course for only $5 on PacktPub.com](https://www.packtpub.com/product/apache-spark-2-data-processing-and-real-time-analytics/9781789959208)
+-----
+*The $5 campaign         runs from __December 15th 2020__ to __January 13th 2021.__*
+
 # Apache Spark 2 Data Processing and Real-Time Analytics
 Apache Spark is an in-memory, cluster-based data processing system that provides a wide range of functionalities such as big data processing, analytics, machine learning, and more. With this Learning Path, you can take your knowledge of Apache Spark to the next level by learning how to expand Spark's functionality and building your own data flow and machine learning programs on this platform.
 
