@@ -45,7 +45,7 @@ object bayes1 extends App
   {
     csvLine => 
       val colData = csvLine.split(',')
-      LabeledPoint(colData(0).toDouble, Vectors.dense(colData(1).split(' ').map(_.toDouble)))
+      LabeledPoint(colData(0).toDouble, Vectors.dense(colData.drop(1).map(_.toDouble)))
   }
 
   // divide the data ( randomly into training and testing data sets 
